@@ -1,0 +1,10 @@
+flask
+flask-cors
+requests
+pandas
+tmdbv3api
+opencv-python-headless
+numpy
+deepface
+textblob
+google-generativeai
